@@ -8,3 +8,9 @@ git checkout -b name
 git add .
 git commit -m "type"
 git push -u origin name
+
+
+question 3 
+
+brew install python-tk
+pip install tk
